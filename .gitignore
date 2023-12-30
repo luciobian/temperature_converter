@@ -1,0 +1,18 @@
+# Archivos y directorios específicos de Go
+bin/
+vendor/
+
+# Archivos y directorios generados durante la ejecución o compilación
+*.exe
+*.o
+*.a
+*.log
+
+# Configuraciones locales y específicas del entorno
+.vscode/
+.idea/
+.env
+
+# Directorios temporales y de caché
+.cache/
+.tmp/
